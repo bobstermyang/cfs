@@ -5,6 +5,8 @@ Community Food Share WordPress Plugin
 This plugin was built for Community Food Share, a local non-profit in the Denver Metro Area.
 All of the code written was done during the <a href="https://givefirsthackfest.splashthat.com/" target="_blank">`TechStars Give First HackFest`</a>, a three day hackathon in Boulder, CO. Sorry in advance for the messy code.
 
+View the Community Food Share Front-end Design Here: <a href="https://github.com/bobstermyang/cfs-frontend">https://github.com/bobstermyang/cfs-frontend</a>
+
 
 ----------
 
