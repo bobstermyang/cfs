@@ -23,7 +23,7 @@ Usage
 The plugin isn't ready for production use.
 
 **Testing**
-You can test the plugin by downloading the zip file on the Releases page or by cloning this repo. Then you would upload it to your WordPress site like you would any other plugin
+You can test the plugin by downloading the zip file on the <a href="https://github.com/bobstermyang/cfs/releases">Releases</a> page or by cloning this repo. Then you would upload it to your WordPress site like you would any other plugin
 
 > **Note:**
 
@@ -36,6 +36,7 @@ You can test the plugin by downloading the zip file on the Releases page or by c
 Shortcodes
 -------------------
 `[cfs_register]` - use this shortcode for the company registration page
+
 `[cfs_company_list]` - use this shortcode for the main challenge page company ranking list
 
 ----------
